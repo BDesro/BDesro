@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BDesro
-- 👀 I’m interested in Game and Software Development
-- 🌱 I’m currently learning Computer Science (BS) at Westfield State University
-- 💞️ I’m looking to collaborate on any projects that can help advance my knowledge of software development and collaboration
+- 👀 I’m passionate about Software Engineering and Development
+- 🌱 I’m currently earning a BS Computer Science at Westfield State University
+- 💞️ I’m looking to collaborate on any projects that can help advance my knowledge of software engineering and collaboration
